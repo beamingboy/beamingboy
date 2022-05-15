@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning App development </br>
 
 
-![Alt Te](https://media1.giphy.com/media/gIODGWDBuG5AWlUExJ/giphy.gif?cid=ecf05e47j1vud3vtrxmdmxp7n60ekmyqc0d86j5akgorg1t8&rid=giphy.gif)
+![GIF](https://media1.giphy.com/media/gIODGWDBuG5AWlUExJ/giphy.gif?cid=ecf05e47j1vud3vtrxmdmxp7n60ekmyqc0d86j5akgorg1t8&rid=giphy.gif)
 
 
 
