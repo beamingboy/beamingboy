@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 🌱 I’m currently learning App development </br>
 
 </br>
-![Alt Text](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+![GIF](https://media1.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=beamingboy&theme=dark&show_icons=true&count_private=true)
