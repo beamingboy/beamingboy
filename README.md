@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning App development </br>
 
 
-![GIF](https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ)
+![GIF](https://media1.giphy.com/media/gIODGWDBuG5AWlUExJ/giphy.gif?cid=ecf05e47j1vud3vtrxmdmxp7n60ekmyqc0d86j5akgorg1t8&rid=giphy.gif&ct=g)
 
 
 <iframe src="https://giphy.com/embed/gIODGWDBuG5AWlUExJ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ">via GIPHY</a></p>
