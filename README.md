@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🔭 I’m currently working on ruby project </br>
 🌱 I’m currently learning App development </br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=beamingboy&theme=highcontrast&show_icons=true&count_private=true)
