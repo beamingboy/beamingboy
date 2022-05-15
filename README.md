@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 🌱 I’m currently learning App development </br>
 
 </br>
-<iframe src="https://giphy.com/embed/gIODGWDBuG5AWlUExJ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=beamingboy&theme=dark&show_icons=true&count_private=true)
