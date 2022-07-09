@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <div align="left" >
 <a  href="https://github.com/beamingboy">
 
-<img src="https://github-readme-stats.vercel.app/api?username=beamingboy&theme=react&show_icons=true&count_private=true" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beamingboy&theme=react&layout=compact" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=beamingboy&theme=react&show_icons=true&count_private=true" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beamingboy&theme=react&layout=compact" width="50%">
 
 </a>
 </div>
