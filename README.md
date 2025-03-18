@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Django project </br>
+🔭 I’m currently working on Flutter project </br>
 🌱 I’m currently learning Computer Vision </br>
 
 
